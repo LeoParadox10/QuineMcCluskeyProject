@@ -15,14 +15,7 @@
  <img src="https://travis-ci.org/Kumbong/quine_mccluskey.svg?branch=master">
  </p>
 
-A robust, insanely fast and stupidly easy to use CLI tool for minimizing sum of products via the Quine Mccluskey minimization technique.
-
-## Features :gem:
-   * Written in uncomplicated python :innocent:
-   * Supports don't cares and variables for representing expression
-   * Display of all steps leading to solution :droplet:
-   * Works on Mac, Linux and Windows
-   * Provides all other alternative solutions to the minimization problem
+An incredibly efficient, lightning-fast, and incredibly user-friendly command-line interface (CLI) tool for circuit reduction using the Quine McCluskey algorithm.
 
 ## Usage :computer:
 You can use the following optional arguments according to your needs: 
@@ -45,13 +38,5 @@ Example
    ![](assets/images/combining.png)
    ![](assets/images/coverage.png)
    ![](assets/images/solution.png)
-   
-## Todos :pencil:
- - Complete GUI module
- - Write tests
-
-License :key:
-----
 
 MIT &copy; Smarak Patra
-
