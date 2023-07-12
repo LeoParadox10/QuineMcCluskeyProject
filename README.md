@@ -5,15 +5,6 @@
 <h1 align="center">
     Quine McCluskey Circuit Minimizer.
 </h1>
-  <p align="center">
- <img src="https://img.shields.io/github/release/Kumbong/quine_mccluskey.svg" />
- <img src="https://img.shields.io/github/issues/Kumbong/quine_mccluskey.svg">
- <img src="https://img.shields.io/github/issues-closed-raw/Kumbong/quine_mccluskey.svg">
- <img src="https://img.shields.io/snyk/vulnerabilities/github/Kumbong/quine_mccluskey.svg">
- <img src="https://img.shields.io/github/languages/top/kumbong/quine_mccluskey.svg">
- <img src="https://img.shields.io/codefactor/grade/github/kumbong/quine_mccluskey/master.svg">
- <img src="https://travis-ci.org/Kumbong/quine_mccluskey.svg?branch=master">
- </p>
 
 An incredibly efficient, lightning-fast, and incredibly user-friendly command-line interface (CLI) tool for circuit reduction using the Quine McCluskey algorithm.
 
