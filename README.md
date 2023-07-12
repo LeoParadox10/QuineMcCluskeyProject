@@ -8,7 +8,7 @@
 
 An incredibly efficient, lightning-fast, and incredibly user-friendly command-line interface (CLI) tool for circuit reduction using the Quine McCluskey algorithm.
 
-## Usage :computer:
+## Usage 
 You can use the following optional arguments according to your needs: 
 
    * `-d`, `--dcares` (list of numbers): **list of dont't cares (default=[ ])**
@@ -22,7 +22,7 @@ Example
     python -m qmccluskey -m 0,1,3,7,8,9,11,15 -d 12  -v a,b,c,d
     python -m qmccluskey -p a'b'c'+b'cd'+a'bcd'+ab'c' -v a,b,c,d
 ```
-## Demo :movie_camera:
+## Demo 
    Solution for the the Example above
    
    ![](assets/images/grouping.png)
