@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="assets/images/circuit.jpg">
 </p>
-<p 
+
 <h1 align="center">
     Quine McCluskey Circuit Minimizer.
 </h1>
