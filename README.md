@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://www.hackerrank.com/profile/kumbonghermann"><img src="assets/images/circuit.jpg" ></a>
+	<img src="assets/images/circuit.jpg">
 </p>
 <p 
 <h1 align="center">
