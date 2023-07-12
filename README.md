@@ -76,11 +76,10 @@ Please make sure to update tests as appropriate.
 ## Todos :pencil:
  - Complete GUI module
  - Write tests
- - Include steps for petrick's method
 
 
 License :key:
 ----
 
-MIT &copy; Kumbong Hermann
+MIT &copy; Smarak Patra
 
