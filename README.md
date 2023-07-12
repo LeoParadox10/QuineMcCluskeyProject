@@ -23,17 +23,6 @@ A robust, insanely fast and stupidly easy to use CLI tool for minimizing sum of 
    * Display of all steps leading to solution :droplet:
    * Works on Mac, Linux and Windows
    * Provides all other alternative solutions to the minimization problem
-   
-## Installation :package:
-1. Clone the repo
-```bash
-   git clone https://github.com/Kumbong/quine_mccluskey.git
-   cd quine_mccluskey
-```
-2. Install dependencies
-```bash
-   pip install -r requirements.txt
-```
 
 ## Usage :computer:
 You can use the following optional arguments according to your needs: 
@@ -57,26 +46,9 @@ Example
    ![](assets/images/coverage.png)
    ![](assets/images/solution.png)
    
-## Contributing :gift: [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
-
-## Want to talk more??
- If you are interested in helping or have something to suggest or just want to chat with me, you can reach me via email: kumbonghermann@gmail.com
-
-
-## References :book:
-* Petrick's method 
-    https://en.wikipedia.org/wiki/Petrick%27s_method
-* quine mccluskey also in python
-    https://github.com/tpircher/quine-mccluskey
-* readme.md
-    https://github.com/karan/joe
-
 ## Todos :pencil:
  - Complete GUI module
  - Write tests
-
 
 License :key:
 ----
